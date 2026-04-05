@@ -1,1 +1,19 @@
+# Build
+bin/
 obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# VS Code
+.vscode/
+
+# Configuración sensible
+appsettings.Development.json
+.env
+
+# Frontend (si tienes)
+node_modules/
+wwwroot/lib/
